@@ -5,4 +5,3 @@ Route Finder
 - Ebru GÜNDÜZ
 - Ali Cem KOÇ
 - Nilay Gizem TEZER
-
