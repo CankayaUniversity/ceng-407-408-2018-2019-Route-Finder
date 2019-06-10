@@ -122,7 +122,7 @@ class Map extends Component {
         const { startLongLat, destLongLat, startLoc, destLoc } = this.props.data;
         const origin = { latitude: startLongLat[0], longitude: startLongLat[1] };
         const destination = { latitude: destLongLat[0], longitude: destLongLat[1] };
-        const GOOGLE_MAPS_APIKEY = 'AIzaSyC9zZfHLud2na91ugE1FrOv92qX2cbHvto';
+        const GOOGLE_MAPS_APIKEY = 'API_KEY';
         return (
             <View style={{ flex: 1 }} >
                 <View style={{ height: '50%' }} >
